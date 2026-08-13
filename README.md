@@ -2,8 +2,8 @@
 
 Informatik-Student in Frankfurt am Main.
 
-Mich interessiert, wie Geld erfasst und bewegt wird — Zahlungsverkehr,
-Buchhaltung, Bankinfrastruktur — und ich baue Backend-Systeme in diesem Bereich.
+Mich interessiert, wie Geld erfasst und bewegt wird, Zahlungsverkehr,
+Buchhaltung, Bankinfrastruktur, und ich baue Backend-Systeme in diesem Bereich.
 
 **Aktuell:** Java und Spring Boot, Aufbau eines Ledger-Systems mit doppelter Buchführung.
 
