@@ -2,7 +2,7 @@
 
 Informatik-Student in Frankfurt am Main.
 
-Mich interessiert, wie Geld erfasst und bewegt wird — Zahlungsverkehr, Buchhaltung,
+Mich interessiert, wie Geld erfasst und bewegt wird Zahlungsverkehr, Buchhaltung,
 Bankinfrastruktur. Ich baue Backend-Systeme in diesem Bereich.
 
 **Ich suche:** eine Werkstudentenstelle im Bereich Backend / IT in Frankfurt am Main.
@@ -23,7 +23,7 @@ später ein Ledger mit doppelter Buchführung.
 ### Wie ich arbeite
 
 Bei Geldbeträgen `Decimal` bzw. `BigDecimal` statt Fließkommazahlen, unveränderliche
-Datenmodelle, getrennte Schichten für Berechnung, Validierung und Persistenz —
+Datenmodelle, getrennte Schichten für Berechnung, Validierung und Persistenz
 Tests und CI von Anfang an.
 
 ### Stack
