@@ -1,9 +1,9 @@
 # Mani Kouchakian
 
-Informatik-Student in Frankfurt am Main.
+Informatik Student in Frankfurt am Main.
 
 Mich interessiert, wie Geld erfasst und bewegt wird: Zahlungsverkehr, Buchhaltung,
-Bankinfrastruktur. Ich baue Backend-Systeme in diesem Bereich.
+Bankinfrastruktur. Ich baue Backend Systeme in diesem Bereich.
 
 **Ich suche:** eine Werkstudentenstelle im Bereich Backend / IT in Frankfurt am Main.
 
