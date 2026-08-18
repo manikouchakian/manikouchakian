@@ -27,11 +27,14 @@ Bei Geldbeträgen `Decimal` bzw. `BigDecimal` statt Fließkommazahlen. Unveränd
 Datenmodelle. Getrennte Schichten für Berechnung, Validierung und Persistenz.
 Tests und CI von Anfang an.
 
-### Stack
+
+
+ ### Stack
 
 - **Sprachen:** Python · Java · SQL
-- **Werkzeuge:** Git · Maven · JUnit 5 · pytest · GitHub Actions · PostgreSQL · Django
-- **Im Aufbau:** Java OOP, anschließend Spring Boot
+- **Werkzeuge:** Git · Maven · JUnit 5 · pytest · GitHub Actions · Django
+- **Im Aufbau:** Java OOP, danach Spring Boot und PostgreSQL
+
 
 ### Kontakt
 
