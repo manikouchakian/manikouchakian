@@ -22,6 +22,7 @@ Außerdem: [Django-Auction-Site](https://github.com/manikouchakian/Django-Auctio
 Auktionsplattform aus dem CS50-Web-Kurs, nach der Abgabe überarbeitet:
 Decimal statt float, Tests für die Fehlerfälle, CI.
 
+
 *Als Nächstes:* vollständiger Tilgungsplan, drei Darlehensarten über eine gemeinsame
 Schnittstelle, danach Persistenz mit PostgreSQL.
 
