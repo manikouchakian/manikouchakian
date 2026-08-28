@@ -18,6 +18,10 @@ Eine Projektreihe rund um Geldbewegungen.
 | [kontor-budget](https://github.com/manikouchakian/kontor-budget) | Python | Budgetverwaltung, Sparquote, Monatsvergleich · `Decimal` statt Fließkomma · 67 Tests, CI |
 | [kontor-zins](https://github.com/manikouchakian/kontor-zins) | Java 17 | Tilgungsrechner · `BigDecimal` mit explizitem `RoundingMode` · JUnit 5, CI |
 
+Außerdem: [Django-Auction-Site](https://github.com/manikouchakian/Django-Auction-Site) —
+Auktionsplattform aus dem CS50-Web-Kurs, nach der Abgabe überarbeitet:
+Decimal statt float, Tests für die Fehlerfälle, CI.
+
 *Als Nächstes:* vollständiger Tilgungsplan, drei Darlehensarten über eine gemeinsame
 Schnittstelle, danach Persistenz mit PostgreSQL.
 
