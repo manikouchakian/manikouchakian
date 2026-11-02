@@ -34,7 +34,7 @@ Bei Geldbeträgen `Decimal` bzw. `BigDecimal`, nie Fließkomma. Unveränderliche
 
 Bei Unsicherheit lieber blockieren als etwas durchrutschen lassen.
 
-Claude Code nutze ich beim Programmieren. Committet wird nur, was ich selbst erklären kann.
+Ich programmiere mit Claude Code, gehe aber jede Änderung selbst durch, bevor ich sie committe.
 
 ### Stack
 
