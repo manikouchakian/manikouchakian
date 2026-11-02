@@ -32,8 +32,6 @@ Außerdem: [Django-Auction-Site](https://github.com/manikouchakian/Django-Auctio
 
 Bei Geldbeträgen `Decimal` bzw. `BigDecimal`, nie Fließkomma. Unveränderliche Datenmodelle. Berechnung, Validierung und Speicherung getrennt. Tests und CI von Anfang an.
 
-Bei Unsicherheit lieber blockieren als etwas durchrutschen lassen.
-
 Ich programmiere mit Claude Code, gehe aber jede Änderung selbst durch, bevor ich sie committe.
 
 ### Stack
